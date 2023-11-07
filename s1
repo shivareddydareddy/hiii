@@ -5,5 +5,5 @@ for i in range(a):
 	print (i)
 	else :
 	print("wromng")
-print("HUI")
+
 
